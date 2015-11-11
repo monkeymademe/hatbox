@@ -49,3 +49,17 @@ Use a ruler to help fold the where you are supposed to fold. (If using the thick
 Glue the flaps at the corners if that tickles your fancy!
 
 Put your Hat board in and enjoy!
+
+## Compatibity
+
+Don't worry I am not leaving you to guess what hats fit in which template. If the Hat you own is not on the list feel free to add it
+
+### Raspberry Pi
+
+* ![Sense Hat - 15mm](/Hatbox_Templates/) 
+
+### Pimoroni 
+
+* ![Unicorn Hat - 10mm](https://github.com/monkeymademe/hatbox/blob/master/Hatbox_Templates/Hatbox_10mm.png) 
+* Unicorn Hat - 10mm
+* 
