@@ -50,6 +50,9 @@ Glue the flaps at the corners if that tickles your fancy!
 
 Put your Hat board in and enjoy!
 
+![Action Shots](/Images/Action_Shot_03.jpg)
+![Action Shots](/Images/Action_Shot_04.jpg)
+
 ## Compatibity
 
 Don't worry I am not leaving you to guess what hats fit in which template. If the Hat you own is not on the list feel free to add it
@@ -60,6 +63,6 @@ Don't worry I am not leaving you to guess what hats fit in which template. If th
 
 ### Pimoroni 
 
-* ![Unicorn Hat - 10mm](https://github.com/monkeymademe/hatbox/blob/master/Hatbox_Templates/Hatbox_10mm.png) 
-* Unicorn Hat - 10mm
-* 
+* ![Unicorn Hat - 10mm](/Hatbox_Templates/) 
+* ![Skywriter Hat - 10mm](/Hatbox_Templates/) (although could be smaller)
+* ![Display-O-Tron Hat - 12mm](/Hatbox_Templates/) 
