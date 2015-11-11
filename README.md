@@ -18,4 +18,28 @@ So I made my own out of card!
 
 ## How do I make a Hat-Box
 
+Well simply download the file you need. There are in different heights that depend on what is on the hat.
 
+* 15mm
+* 12mm
+* 10mm
+
+If you have a suggestion for another size let me know ;-)
+
+After downloading print out the template on a normal sheet of paper (A4). When printing remember to turn scaling off or leave at 100% from the print options. Scaling will not give you the correct size!
+
+Cut out the template using a scalple/exacto knife.
+
+Get some card (250g is best but 130g is acceptable) and draw around the paper template so the shape is now on the card!
+
+Cut out the card template.
+
+STOP!
+
+Before you start folding! consider using the new cut out card template as a template and not fold it into the box. Then you can throw away the paper one and you have a more robust card template to make more Hat-Boxes. At least thats what I do.
+
+Use a ruler to help fold the where you are supposed to fold. (If using the thicker card give the folds a bend both directions to loosen it up)
+
+Glue the flaps at the corners if that tickles your fancy!
+
+Put your Hat board in and enjoy!
