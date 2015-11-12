@@ -66,3 +66,14 @@ Don't worry I am not leaving you to guess what hats fit in which template. If th
 * ![Unicorn Hat - 10mm](/Hatbox_Templates/) 
 * ![Skywriter Hat - 10mm](/Hatbox_Templates/) (although could be smaller)
 * ![Display-O-Tron Hat - 12mm](/Hatbox_Templates/) 
+ 
+### Special Edition: LEGO!
+
+There is also a template for lego Hats... I mean Real lego Hats... for the tiny little lego heads!
+
+* ![Lego Hat](/Hatbox_Templates/) 
+
+Need I say more?
+
+![Indy](/Images/Indy.gif)
+
