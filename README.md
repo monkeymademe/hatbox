@@ -64,8 +64,10 @@ Don't worry I am not leaving you to guess what hats fit in which template. If th
 ### Pimoroni 
 
 * ![Unicorn Hat - 10mm](/Hatbox_Templates/) 
-* ![Skywriter Hat - 10mm](/Hatbox_Templates/) (although could be smaller)
+* ![Skywriter Hat - 10mm](/Hatbox_Templates/)
+* ![PiPiano - 10mm](/Hatbox_Templates/)
 * ![Display-O-Tron Hat - 12mm](/Hatbox_Templates/) 
+* ![Explorer Hat Pro - 15mm](/Hatbox_Templates/) 
  
 ### Special Edition: LEGO!
 
