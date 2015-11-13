@@ -67,7 +67,11 @@ Don't worry I am not leaving you to guess what hats fit in which template. If th
 * ![Skywriter Hat - 10mm](/Hatbox_Templates/)
 * ![PiPiano - 10mm](/Hatbox_Templates/)
 * ![Display-O-Tron Hat - 12mm](/Hatbox_Templates/) 
-* ![Explorer Hat Pro - 15mm](/Hatbox_Templates/) 
+* ![Explorer Hat Pro - 15mm](/Hatbox_Templates/) (Little tight)
+
+### 4tronix
+
+* ![Play Hat - 15mm](/Hatbox_Templates/) (Little tight)
  
 ### Special Edition: LEGO!
 
