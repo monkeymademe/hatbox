@@ -20,9 +20,9 @@ So I made my own out of card!
 
 Simply download the file you need. There are in different heights that depend on what is on the hat.
 
-* ![15mm](/Hatbox_Templates) 
-* ![12mm](/Hatbox_Templates) 
-* ![10mm](/Hatbox_Templates) 
+* ![15mm](/Hatbox_Templates/README.md) 
+* ![12mm](/Hatbox_Templates/README.md) 
+* ![10mm](/Hatbox_Templates/README.md) 
 
 If you have a suggestion for another size let me know ;-)
 
@@ -59,25 +59,25 @@ Don't worry I am not leaving you to guess what hats fit in which template. If th
 
 ### Raspberry Pi
 
-* ![Sense Hat - 15mm](/Hatbox_Templates/) 
+* ![Sense Hat - 15mm](/Hatbox_Templates/README.md) 
 
 ### Pimoroni 
 
-* ![Unicorn Hat - 10mm](/Hatbox_Templates/) 
-* ![Skywriter Hat - 10mm](/Hatbox_Templates/)
-* ![PiPiano - 10mm](/Hatbox_Templates/)
-* ![Display-O-Tron Hat - 12mm](/Hatbox_Templates/) 
-* ![Explorer Hat Pro - 15mm](/Hatbox_Templates/) (Little tight)
+* ![Unicorn Hat - 10mm](/Hatbox_Templates/README.md) 
+* ![Skywriter Hat - 10mm](/Hatbox_Templates/README.md)
+* ![PiPiano - 10mm](/Hatbox_Templates/README.md)
+* ![Display-O-Tron Hat - 12mm](/Hatbox_Templates/README.md) 
+* ![Explorer Hat Pro - 15mm](/Hatbox_Templates/README.md) (Little tight)
 
 ### 4tronix
 
-* ![Play Hat - 15mm](/Hatbox_Templates/) (Little tight)
+* ![Play Hat - 15mm](/Hatbox_Templates/README.md) (Little tight)
  
 ### Special Edition: LEGO!
 
 There is also a template for lego Hats... I mean Real lego Hats... for the tiny little lego heads!
 
-* ![Lego Hat](/Hatbox_Templates/) 
+* ![Lego Hat](/Hatbox_Templates/README.md) 
 
 Need I say more?
 
