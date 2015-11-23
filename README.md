@@ -20,7 +20,7 @@ So I made my own out of card!
 
 Simply download the file you need. There are in different heights that depend on what is on the hat.
 
-* ![15mm](/Hatbox_Templates/README.md) 
+* [15mm](/Hatbox_Templates) 
 * ![12mm](/Hatbox_Templates/README.md) 
 * ![10mm](/Hatbox_Templates/README.md) 
 
