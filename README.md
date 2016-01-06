@@ -22,13 +22,13 @@ So I made my own out of card!
 
 Simply download the file you need. There are in different heights that depend on what is on the hat.
 
-# Hat boards
+### Hat boards
 
 * [15mm](/Hatbox_Templates/Hatbox_15mm.png) 
 * [12mm](/Hatbox_Templates/Hatbox_12mm.png) 
 * [10mm](/Hatbox_Templates/Hatbox_10mm.png) 
 
-# PHat boards 
+### PHat boards 
 
 * [12mm](/Hatbox_Templates/PHatbox_12mm.png)
 
