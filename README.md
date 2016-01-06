@@ -8,6 +8,8 @@ Hat-Box is a simple template for cutting out your own Hat sized protective box f
 
 Basically it means a lot of your add-on boards that are called Hats will be the same size.
 
+Now Hat-Box is supporting the new add-on size known as PHats (coined by Pimoroni) 
+
 ## Why do we need a box
 
 I own a Hat with a lcd on top. With all the movement in my toolbox the screen got damaged. That sucked, so I wanted to find something to protect my boards. I looked at Tool boxes, craft boxes, bags and pouches. Nothing seemed to fit the size of the Hats and actually keep them separate. 
@@ -20,9 +22,15 @@ So I made my own out of card!
 
 Simply download the file you need. There are in different heights that depend on what is on the hat.
 
+# Hat boards
+
 * [15mm](/Hatbox_Templates/Hatbox_15mm.png) 
 * [12mm](/Hatbox_Templates/Hatbox_12mm.png) 
 * [10mm](/Hatbox_Templates/Hatbox_10mm.png) 
+
+# PHat boards 
+
+* [12mm](/Hatbox_Templates/PHatbox_12mm.png)
 
 If you have a suggestion for another size let me know ;-)
 
@@ -68,6 +76,7 @@ Don't worry I am not leaving you to guess what hats fit in which template. If th
 * [PiPiano - 10mm](/Hatbox_Templates/Hatbox_10mm.png)
 * [Display-O-Tron Hat - 12mm](/Hatbox_Templates/Hatbox_12mm.png) 
 * [Explorer Hat Pro - 15mm](/Hatbox_Templates/Hatbox_15mm.png) (Little tight)
+* [Scroll Phat - 12mm](/Hatbox_Templates/PHatbox_12mm.png)
 
 ### 4tronix
 
