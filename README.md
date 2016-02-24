@@ -14,7 +14,7 @@ Now Hat-Box is supporting the new add-on size known as PHats (coined by Pimoroni
 
 I own a Hat with a lcd on top. With all the movement in my toolbox the screen got damaged. That sucked, so I wanted to find something to protect my boards. I looked at Tool boxes, craft boxes, bags and pouches. Nothing seemed to fit the size of the Hats and actually keep them separate. 
 
-Anoying!
+Annoying!
 
 So I made my own out of card!
 
